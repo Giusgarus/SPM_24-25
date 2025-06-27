@@ -1,0 +1,17 @@
+=== COMPILAZIONE miniz_plain ===
+rm -f miniz_plain miniz_parallel
+srun: job 190842 queued and waiting for resources
+srun: job 190842 has been allocated resources
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_plain miniz_plain.cpp ./miniz/miniz.c 
+
+=== RUN #1 miniz_plain ===
+# elapsed time (Scan_Folders): 0.00109865s
+# elapsed time (Processing): 46.6446s
+
+=== RUN #2 miniz_plain ===
+# elapsed time (Scan_Folders): 0.00105249s
+# elapsed time (Processing): 45.55s
+
+=== RUN #3 miniz_plain ===
+# elapsed time (Scan_Folders): 0.00108612s
+# elapsed time (Processing): 51.7147s

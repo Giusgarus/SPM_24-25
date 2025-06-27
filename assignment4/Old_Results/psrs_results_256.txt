@@ -1,0 +1,144 @@
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=1 ===
+srun: job 279451 queued and waiting for resources
+srun: job 279451 has been allocated resources
+Total time (Get Data + sort): 5.35228 s
+Total sort time: 2.67283 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=1 ===
+srun: job 279466 queued and waiting for resources
+srun: job 279466 has been allocated resources
+Total time (Get Data + sort): 5.79237 s
+Total sort time: 3.16696 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=1 ===
+srun: job 279475 queued and waiting for resources
+srun: job 279475 has been allocated resources
+Total time (Get Data + sort): 5.58332 s
+Total sort time: 2.94739 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=1 ===
+srun: job 279481 queued and waiting for resources
+srun: job 279481 has been allocated resources
+Total time (Get Data + sort): 5.88425 s
+Total sort time: 3.27247 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=1 ===
+srun: job 279488 queued and waiting for resources
+srun: job 279488 has been allocated resources
+Total time (Get Data + sort): 60.1533 s
+Total sort time: 30.999 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=1 ===
+srun: job 279503 queued and waiting for resources
+srun: job 279503 has been allocated resources
+Total time (Get Data + sort): 57.0814 s
+Total sort time: 29.8567 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=1 ===
+srun: job 279527 queued and waiting for resources
+srun: job 279527 has been allocated resources
+Total time (Get Data + sort): 57.6711 s
+Total sort time: 30.7749 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=1 ===
+srun: job 279535 queued and waiting for resources
+srun: job 279535 has been allocated resources
+Total time (Get Data + sort): 66.4846 s
+Total sort time: 33.6236 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=1 ===
+srun: job 279567 queued and waiting for resources
+srun: job 279567 has been allocated resources
+Total time (Get Data + sort): 7.75336 s
+Total sort time: 2.86854 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=1 ===
+srun: job 279577 queued and waiting for resources
+srun: job 279577 has been allocated resources
+Total time (Get Data + sort): 10.0375 s
+Total sort time: 5.10662 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=1 ===
+srun: job 279587 queued and waiting for resources
+srun: job 279587 has been allocated resources
+Total time (Get Data + sort): 10.1928 s
+Total sort time: 5.41874 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=1 ===
+srun: job 279596 queued and waiting for resources
+srun: job 279596 has been allocated resources
+Total time (Get Data + sort): 10.305 s
+Total sort time: 5.52212 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=1 ===
+srun: job 279608 queued and waiting for resources
+srun: job 279608 has been allocated resources
+Total time (Get Data + sort): 60.5135 s
+Total sort time: 53.8989 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=1 ===
+srun: job 279624 queued and waiting for resources
+srun: job 279624 has been allocated resources
+Total time (Get Data + sort): 60.1217 s
+Total sort time: 53.4459 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=1 ===
+srun: job 279636 queued and waiting for resources
+srun: job 279636 has been allocated resources
+Total time (Get Data + sort): 60.4385 s
+Total sort time: 53.7769 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=1 ===
+srun: job 279644 queued and waiting for resources
+srun: job 279644 has been allocated resources
+Total time (Get Data + sort): 60.9121 s
+Total sort time: 54.154 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=1 ===
+srun: job 279658 queued and waiting for resources
+srun: job 279658 has been allocated resources
+Total time (Get Data + sort): 6.21844 s
+Total sort time: 1.58893 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 279676 queued and waiting for resources
+srun: job 279676 has been allocated resources
+Total time (Get Data + sort): 9.46014 s
+Total sort time: 4.80694 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=1 ===
+srun: job 279686 queued and waiting for resources
+srun: job 279686 has been allocated resources
+Total time (Get Data + sort): 9.73878 s
+Total sort time: 5.10421 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=1 ===
+srun: job 279707 queued and waiting for resources
+srun: job 279707 has been allocated resources
+Total time (Get Data + sort): 9.91818 s
+Total sort time: 5.27838 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=1 ===
+srun: job 279717 queued and waiting for resources
+srun: job 279717 has been allocated resources
+Total time (Get Data + sort): 55.6652 s
+Total sort time: 52.3224 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 279733 queued and waiting for resources
+srun: job 279733 has been allocated resources
+Total time (Get Data + sort): 55.9023 s
+Total sort time: 52.5821 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=1 ===
+srun: job 279743 queued and waiting for resources
+srun: job 279743 has been allocated resources
+Total time (Get Data + sort): 55.9718 s
+Total sort time: 52.4925 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=1 ===
+srun: job 279754 queued and waiting for resources
+srun: job 279754 has been allocated resources
+Total time (Get Data + sort): 56.3521 s
+Total sort time: 52.9576 s
+

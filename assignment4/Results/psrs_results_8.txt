@@ -1,0 +1,490 @@
+=== SIZE=10M | PAYLOAD=8 | THREADS=1 | NODES=1 | TASKS=1 ===
+Total (get data) time: 0.831581 s
+Total (sort) time: 1.03474 s
+Total (write) time: 1.25403 s
+TOTAL TIME: 3.12036 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=1 | NODES=1 | TASKS=16 ===
+Total (get data) time: 0.260956 s
+Total (sort) time: 0.279263 s
+Total (write) time: 1.40127 s
+TOTAL TIME: 1.94149 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=1 | NODES=1 | TASKS=32 ===
+Total (get data) time: 0.279378 s
+Total (sort) time: 0.235075 s
+Total (write) time: 1.62985 s
+TOTAL TIME: 2.1443 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=8 | NODES=1 | TASKS=1 ===
+Total (get data) time: 0.832022 s
+Total (sort) time: 0.426428 s
+Total (write) time: 1.34084 s
+TOTAL TIME: 2.59929 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=8 | NODES=1 | TASKS=16 ===
+Total (get data) time: 1.18851 s
+Total (sort) time: 1.35505 s
+Total (write) time: 2.24245 s
+TOTAL TIME: 4.78602 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=8 | NODES=1 | TASKS=32 ===
+Total (get data) time: 0.30149 s
+Total (sort) time: 1.73077 s
+Total (write) time: 1.9102 s
+TOTAL TIME: 3.94246 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=16 | NODES=1 | TASKS=1 ===
+Total (get data) time: 0.835789 s
+Total (sort) time: 0.389186 s
+Total (write) time: 1.4043 s
+TOTAL TIME: 2.62928 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=16 | NODES=1 | TASKS=16 ===
+Total (get data) time: 0.249431 s
+Total (sort) time: 1.32466 s
+Total (write) time: 1.81069 s
+TOTAL TIME: 3.38478 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=16 | NODES=1 | TASKS=32 ===
+Total (get data) time: 0.249013 s
+Total (sort) time: 1.7793 s
+Total (write) time: 1.93442 s
+TOTAL TIME: 3.96274 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=32 | NODES=1 | TASKS=1 ===
+Total (get data) time: 0.832408 s
+Total (sort) time: 0.423075 s
+Total (write) time: 1.32858 s
+TOTAL TIME: 2.58406 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=32 | NODES=1 | TASKS=16 ===
+Total (get data) time: 0.275972 s
+Total (sort) time: 1.70157 s
+Total (write) time: 1.82798 s
+TOTAL TIME: 3.80553 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=32 | NODES=1 | TASKS=32 ===
+Total (get data) time: 0.308269 s
+Total (sort) time: 2.20538 s
+Total (write) time: 1.79268 s
+TOTAL TIME: 4.30632 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=1 | NODES=1 | TASKS=1 ===
+Total (get data) time: 8.19464 s
+Total (sort) time: 11.8669 s
+Total (write) time: 14.7927 s
+TOTAL TIME: 34.8542 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=1 | NODES=1 | TASKS=16 ===
+Total (get data) time: 2.05462 s
+Total (sort) time: 3.06401 s
+Total (write) time: 17.469 s
+TOTAL TIME: 22.5876 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=1 | NODES=1 | TASKS=32 ===
+Total (get data) time: 2.09227 s
+Total (sort) time: 2.48133 s
+Total (write) time: 14.372 s
+TOTAL TIME: 18.9456 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=8 | NODES=1 | TASKS=1 ===
+Total (get data) time: 8.24872 s
+Total (sort) time: 4.39096 s
+Total (write) time: 15.2105 s
+TOTAL TIME: 27.8502 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=8 | NODES=1 | TASKS=16 ===
+Total (get data) time: 2.24886 s
+Total (sort) time: 10.4175 s
+Total (write) time: 15.0778 s
+TOTAL TIME: 27.7442 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=8 | NODES=1 | TASKS=32 ===
+Total (get data) time: 2.09944 s
+Total (sort) time: 9.71883 s
+Total (write) time: 13.7919 s
+TOTAL TIME: 25.6101 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=16 | NODES=1 | TASKS=1 ===
+Total (get data) time: 8.20224 s
+Total (sort) time: 3.92424 s
+Total (write) time: 15.336 s
+TOTAL TIME: 27.4625 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=16 | NODES=1 | TASKS=16 ===
+srun: job 296832 queued and waiting for resources
+srun: job 296832 has been allocated resources
+Total (get data) time: 2.08934 s
+Total (sort) time: 9.63394 s
+Total (write) time: 14.8079 s
+TOTAL TIME: 26.5311 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=16 | NODES=1 | TASKS=32 ===
+Total (get data) time: 2.05184 s
+Total (sort) time: 9.23106 s
+Total (write) time: 13.3209 s
+TOTAL TIME: 24.6038 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=32 | NODES=1 | TASKS=1 ===
+Total (get data) time: 8.26766 s
+Total (sort) time: 4.18044 s
+Total (write) time: 15.4136 s
+TOTAL TIME: 27.8617 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=32 | NODES=1 | TASKS=16 ===
+Total (get data) time: 2.11083 s
+Total (sort) time: 10.9019 s
+Total (write) time: 17.6997 s
+TOTAL TIME: 30.7124 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=32 | NODES=1 | TASKS=32 ===
+srun: job 296837 queued and waiting for resources
+srun: job 296837 has been allocated resources
+Total (get data) time: 2.08544 s
+Total (sort) time: 10.7719 s
+Total (write) time: 12.8335 s
+TOTAL TIME: 25.6909 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=1 | NODES=4 | TASKS=1 ===
+Total (get data) time: 0.625015 s
+Total (sort) time: 0.907224 s
+Total (write) time: 2.15458 s
+TOTAL TIME: 3.68682 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=1 | NODES=4 | TASKS=16 ===
+Total (get data) time: 0.233382 s
+Total (sort) time: 0.165602 s
+Total (write) time: 2.04986 s
+TOTAL TIME: 2.44884 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=1 | NODES=4 | TASKS=32 ===
+Total (get data) time: 0.436335 s
+Total (sort) time: 0.375041 s
+Total (write) time: 1.89275 s
+TOTAL TIME: 2.70413 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=8 | NODES=4 | TASKS=1 ===
+Total (get data) time: 0.451878 s
+Total (sort) time: 0.735236 s
+Total (write) time: 2.43778 s
+TOTAL TIME: 3.62489 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=8 | NODES=4 | TASKS=16 ===
+Total (get data) time: 0.235847 s
+Total (sort) time: 0.864119 s
+Total (write) time: 2.28622 s
+TOTAL TIME: 3.38619 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=8 | NODES=4 | TASKS=32 ===
+Total (get data) time: 0.425621 s
+Total (sort) time: 1.5206 s
+Total (write) time: 2.17436 s
+TOTAL TIME: 4.12058 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=16 | NODES=4 | TASKS=1 ===
+Total (get data) time: 0.446619 s
+Total (sort) time: 0.694328 s
+Total (write) time: 2.08173 s
+TOTAL TIME: 3.22268 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=16 | NODES=4 | TASKS=16 ===
+Total (get data) time: 0.303843 s
+Total (sort) time: 1.02084 s
+Total (write) time: 1.98332 s
+TOTAL TIME: 3.308 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=16 | NODES=4 | TASKS=32 ===
+Total (get data) time: 0.448601 s
+Total (sort) time: 2.09507 s
+Total (write) time: 2.71826 s
+TOTAL TIME: 5.26193 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=32 | NODES=4 | TASKS=1 ===
+Total (get data) time: 0.558464 s
+Total (sort) time: 0.736674 s
+Total (write) time: 2.19846 s
+TOTAL TIME: 3.4936 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=32 | NODES=4 | TASKS=16 ===
+Total (get data) time: 0.4225 s
+Total (sort) time: 1.20707 s
+Total (write) time: 2.04373 s
+TOTAL TIME: 3.6733 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=32 | NODES=4 | TASKS=32 ===
+Total (get data) time: 0.381253 s
+Total (sort) time: 2.20016 s
+Total (write) time: 2.35941 s
+TOTAL TIME: 4.94082 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=1 | NODES=4 | TASKS=1 ===
+Total (get data) time: 4.23515 s
+Total (sort) time: 10.15 s
+Total (write) time: 25.8818 s
+TOTAL TIME: 40.267 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=1 | NODES=4 | TASKS=16 ===
+Total (get data) time: 1.76967 s
+Total (sort) time: 1.3759 s
+Total (write) time: 11.5222 s
+TOTAL TIME: 14.6678 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=1 | NODES=4 | TASKS=32 ===
+Total (get data) time: 1.75741 s
+Total (sort) time: 1.75342 s
+Total (write) time: 11.9615 s
+TOTAL TIME: 15.4724 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=8 | NODES=4 | TASKS=1 ===
+Total (get data) time: 4.23344 s
+Total (sort) time: 7.59511 s
+Total (write) time: 25.7602 s
+TOTAL TIME: 37.5888 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=8 | NODES=4 | TASKS=16 ===
+srun: job 296855 queued and waiting for resources
+srun: job 296855 has been allocated resources
+Total (get data) time: 1.7489 s
+Total (sort) time: 4.49139 s
+Total (write) time: 11.1737 s
+TOTAL TIME: 17.414 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=8 | NODES=4 | TASKS=32 ===
+Total (get data) time: 1.8046 s
+Total (sort) time: 3.72032 s
+Total (write) time: 11.8693 s
+TOTAL TIME: 17.3942 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=16 | NODES=4 | TASKS=1 ===
+Total (get data) time: 4.4276 s
+Total (sort) time: 7.11722 s
+Total (write) time: 26.987 s
+TOTAL TIME: 38.5319 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=16 | NODES=4 | TASKS=16 ===
+srun: job 296859 queued and waiting for resources
+srun: job 296859 has been allocated resources
+Total (get data) time: 1.68705 s
+Total (sort) time: 3.29427 s
+Total (write) time: 11.104 s
+TOTAL TIME: 16.0853 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=16 | NODES=4 | TASKS=32 ===
+Total (get data) time: 1.75854 s
+Total (sort) time: 3.47756 s
+Total (write) time: 12.3168 s
+TOTAL TIME: 17.5529 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=32 | NODES=4 | TASKS=1 ===
+Total (get data) time: 4.42291 s
+Total (sort) time: 7.31137 s
+Total (write) time: 27.5813 s
+TOTAL TIME: 39.3156 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=32 | NODES=4 | TASKS=16 ===
+Total (get data) time: 1.6367 s
+Total (sort) time: 3.7228 s
+Total (write) time: 12.2039 s
+TOTAL TIME: 17.5634 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=32 | NODES=4 | TASKS=32 ===
+srun: job 296864 queued and waiting for resources
+srun: job 296864 has been allocated resources
+Total (get data) time: 1.74344 s
+Total (sort) time: 4.1461 s
+Total (write) time: 12.3282 s
+TOTAL TIME: 18.2177 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=1 | NODES=8 | TASKS=1 ===
+srun: job 296865 queued and waiting for resources
+srun: job 296865 has been allocated resources
+Total (get data) time: 0.374357 s
+Total (sort) time: 0.478469 s
+Total (write) time: 1.49806 s
+TOTAL TIME: 2.35089 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=1 | NODES=8 | TASKS=16 ===
+srun: job 296866 queued and waiting for resources
+srun: job 296866 has been allocated resources
+Total (get data) time: 0.403674 s
+Total (sort) time: 0.354786 s
+Total (write) time: 1.8657 s
+TOTAL TIME: 2.62416 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=1 | NODES=8 | TASKS=32 ===
+srun: job 296867 queued and waiting for resources
+srun: job 296867 has been allocated resources
+Total (get data) time: 0.449194 s
+Total (sort) time: 0.391059 s
+Total (write) time: 2.11499 s
+TOTAL TIME: 2.95525 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 296868 queued and waiting for resources
+srun: job 296868 has been allocated resources
+Total (get data) time: 0.37549 s
+Total (sort) time: 0.420245 s
+Total (write) time: 1.63349 s
+TOTAL TIME: 2.42923 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=8 | NODES=8 | TASKS=16 ===
+srun: job 296869 queued and waiting for resources
+srun: job 296869 has been allocated resources
+Total (get data) time: 0.251817 s
+Total (sort) time: 0.873736 s
+Total (write) time: 1.92678 s
+TOTAL TIME: 3.05233 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=8 | NODES=8 | TASKS=32 ===
+srun: job 296870 queued and waiting for resources
+srun: job 296870 has been allocated resources
+Total (get data) time: 0.437048 s
+Total (sort) time: 1.74196 s
+Total (write) time: 2.24945 s
+TOTAL TIME: 4.42846 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=16 | NODES=8 | TASKS=1 ===
+srun: job 296871 queued and waiting for resources
+srun: job 296871 has been allocated resources
+Total (get data) time: 0.487882 s
+Total (sort) time: 0.381729 s
+Total (write) time: 1.50248 s
+TOTAL TIME: 2.37209 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=16 | NODES=8 | TASKS=16 ===
+srun: job 296872 queued and waiting for resources
+srun: job 296872 has been allocated resources
+Total (get data) time: 0.265625 s
+Total (sort) time: 1.06716 s
+Total (write) time: 1.85498 s
+TOTAL TIME: 3.18776 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=16 | NODES=8 | TASKS=32 ===
+srun: job 296873 queued and waiting for resources
+srun: job 296873 has been allocated resources
+Total (get data) time: 0.458961 s
+Total (sort) time: 1.83732 s
+Total (write) time: 2.39466 s
+TOTAL TIME: 4.69094 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=32 | NODES=8 | TASKS=1 ===
+srun: job 296874 queued and waiting for resources
+srun: job 296874 has been allocated resources
+Total (get data) time: 0.375716 s
+Total (sort) time: 0.411428 s
+Total (write) time: 1.56522 s
+TOTAL TIME: 2.35236 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=32 | NODES=8 | TASKS=16 ===
+srun: job 296875 queued and waiting for resources
+srun: job 296875 has been allocated resources
+Total (get data) time: 0.428371 s
+Total (sort) time: 1.24576 s
+Total (write) time: 1.8285 s
+TOTAL TIME: 3.50263 s
+
+=== SIZE=10M | PAYLOAD=8 | THREADS=32 | NODES=8 | TASKS=32 ===
+srun: job 296876 queued and waiting for resources
+srun: job 296876 has been allocated resources
+Total (get data) time: 0.41736 s
+Total (sort) time: 2.17002 s
+Total (write) time: 2.2636 s
+TOTAL TIME: 4.85098 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=1 | NODES=8 | TASKS=1 ===
+srun: job 296877 queued and waiting for resources
+srun: job 296877 has been allocated resources
+Total (get data) time: 3.62124 s
+Total (sort) time: 5.27151 s
+Total (write) time: 20.1491 s
+TOTAL TIME: 29.0418 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=1 | NODES=8 | TASKS=16 ===
+srun: job 296879 queued and waiting for resources
+srun: job 296879 has been allocated resources
+Total (get data) time: 1.55645 s
+Total (sort) time: 1.05245 s
+Total (write) time: 11.7255 s
+TOTAL TIME: 14.3344 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=1 | NODES=8 | TASKS=32 ===
+srun: job 296880 queued and waiting for resources
+srun: job 296880 has been allocated resources
+Total (get data) time: 1.80999 s
+Total (sort) time: 1.06276 s
+Total (write) time: 12.2299 s
+TOTAL TIME: 15.1026 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 296881 queued and waiting for resources
+srun: job 296881 has been allocated resources
+Total (get data) time: 3.48696 s
+Total (sort) time: 4.27302 s
+Total (write) time: 17.4684 s
+TOTAL TIME: 25.2284 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=8 | NODES=8 | TASKS=16 ===
+srun: job 296882 queued and waiting for resources
+srun: job 296882 has been allocated resources
+Total (get data) time: 1.67425 s
+Total (sort) time: 2.12779 s
+Total (write) time: 11.6224 s
+TOTAL TIME: 15.4244 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=8 | NODES=8 | TASKS=32 ===
+srun: job 296883 queued and waiting for resources
+srun: job 296883 has been allocated resources
+Total (get data) time: 1.7305 s
+Total (sort) time: 2.58985 s
+Total (write) time: 12.6561 s
+TOTAL TIME: 16.9764 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=16 | NODES=8 | TASKS=1 ===
+srun: job 296885 queued and waiting for resources
+srun: job 296885 has been allocated resources
+Total (get data) time: 3.50161 s
+Total (sort) time: 3.97268 s
+Total (write) time: 16.9303 s
+TOTAL TIME: 24.4046 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=16 | NODES=8 | TASKS=16 ===
+srun: job 296886 queued and waiting for resources
+srun: job 296886 has been allocated resources
+Total (get data) time: 1.67611 s
+Total (sort) time: 2.1113 s
+Total (write) time: 11.4174 s
+TOTAL TIME: 15.2048 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=16 | NODES=8 | TASKS=32 ===
+srun: job 296887 queued and waiting for resources
+srun: job 296887 has been allocated resources
+Total (get data) time: 1.7181 s
+Total (sort) time: 2.86983 s
+Total (write) time: 12.3467 s
+TOTAL TIME: 16.9346 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=32 | NODES=8 | TASKS=1 ===
+srun: job 296888 queued and waiting for resources
+srun: job 296888 has been allocated resources
+Total (get data) time: 3.48881 s
+Total (sort) time: 4.01282 s
+Total (write) time: 16.679 s
+TOTAL TIME: 24.1806 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=32 | NODES=8 | TASKS=16 ===
+srun: job 296889 queued and waiting for resources
+srun: job 296889 has been allocated resources
+Total (get data) time: 1.65205 s
+Total (sort) time: 2.446 s
+Total (write) time: 11.6466 s
+TOTAL TIME: 15.7446 s
+
+=== SIZE=100M | PAYLOAD=8 | THREADS=32 | NODES=8 | TASKS=32 ===
+srun: job 296891 queued and waiting for resources
+srun: job 296891 has been allocated resources
+Total (get data) time: 1.74591 s
+Total (sort) time: 3.25515 s
+Total (write) time: 12.2884 s
+TOTAL TIME: 17.2895 s
+

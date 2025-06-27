@@ -1,0 +1,13 @@
+srun: job 77951 queued and waiting for resources
+srun: job 77951 has been allocated resources
+# elapsed time (softime2_auto): 1.098e-05s
+0.129994
+0.033415
+0.155964
+0.135377
+0.032852
+0.176934
+0.158348
+0.039651
+0.090266
+0.047199

@@ -1,0 +1,505 @@
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=1 ===
+srun: job 277105 queued and waiting for resources
+srun: job 277105 has been allocated resources
+Total (Get Data + sort) time: 25.1776 s
+Total (parallel sort+ tree-merge) time: 13.4976 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=16 ===
+srun: job 277113 queued and waiting for resources
+srun: job 277113 has been allocated resources
+Total (Get Data + sort) time: 18.5564 s
+Total (parallel sort+ tree-merge) time: 12.8118 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=32 ===
+srun: job 277120 queued and waiting for resources
+srun: job 277120 has been allocated resources
+Total (Get Data + sort) time: 20.5473 s
+Total (parallel sort+ tree-merge) time: 12.9343 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=1 ===
+srun: job 277123 queued and waiting for resources
+srun: job 277123 has been allocated resources
+Total (Get Data + sort) time: 17.4192 s
+Total (parallel sort+ tree-merge) time: 12.4778 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=16 ===
+srun: job 277129 queued and waiting for resources
+srun: job 277129 has been allocated resources
+Total (Get Data + sort) time: 18.9794 s
+Total (parallel sort+ tree-merge) time: 13.7238 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=32 ===
+srun: job 277138 queued and waiting for resources
+srun: job 277138 has been allocated resources
+Total (Get Data + sort) time: 20.9524 s
+Total (parallel sort+ tree-merge) time: 13.7678 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=1 ===
+srun: job 277141 queued and waiting for resources
+srun: job 277141 has been allocated resources
+Total (Get Data + sort) time: 18.2768 s
+Total (parallel sort+ tree-merge) time: 13.0656 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=16 ===
+srun: job 277145 queued and waiting for resources
+srun: job 277145 has been allocated resources
+Total (Get Data + sort) time: 18.8196 s
+Total (parallel sort+ tree-merge) time: 13.4909 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=32 ===
+srun: job 277149 queued and waiting for resources
+srun: job 277149 has been allocated resources
+Total (Get Data + sort) time: 22.3541 s
+Total (parallel sort+ tree-merge) time: 14.1425 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=1 ===
+srun: job 277153 queued and waiting for resources
+srun: job 277153 has been allocated resources
+Total (Get Data + sort) time: 18.4894 s
+Total (parallel sort+ tree-merge) time: 13.7447 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=16 ===
+srun: job 277167 queued and waiting for resources
+srun: job 277167 has been allocated resources
+Total (Get Data + sort) time: 18.7726 s
+Total (parallel sort+ tree-merge) time: 13.6666 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=32 ===
+srun: job 277172 queued and waiting for resources
+srun: job 277172 has been allocated resources
+Total (Get Data + sort) time: 23.2095 s
+Total (parallel sort+ tree-merge) time: 14.9904 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=1 ===
+srun: job 277178 queued and waiting for resources
+srun: job 277178 has been allocated resources
+Total (Get Data + sort) time: 349.481 s
+Total (parallel sort+ tree-merge) time: 225.037 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=16 ===
+srun: job 277194 queued and waiting for resources
+srun: job 277194 has been allocated resources
+Total (Get Data + sort) time: 283.831 s
+Total (parallel sort+ tree-merge) time: 231.298 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=32 ===
+srun: job 277213 queued and waiting for resources
+srun: job 277213 has been allocated resources
+Total (Get Data + sort) time: 312.327 s
+Total (parallel sort+ tree-merge) time: 247.895 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=1 ===
+srun: job 277368 queued and waiting for resources
+srun: job 277368 has been allocated resources
+Total (Get Data + sort) time: 262.948 s
+Total (parallel sort+ tree-merge) time: 216.134 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=16 ===
+srun: job 277404 queued and waiting for resources
+srun: job 277404 has been allocated resources
+Total (Get Data + sort) time: 275.552 s
+Total (parallel sort+ tree-merge) time: 224.376 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=32 ===
+srun: job 277447 queued and waiting for resources
+srun: job 277447 has been allocated resources
+Total (Get Data + sort) time: 297.615 s
+Total (parallel sort+ tree-merge) time: 232.844 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=1 ===
+srun: job 277481 queued and waiting for resources
+srun: job 277481 has been allocated resources
+Total (Get Data + sort) time: 257.894 s
+Total (parallel sort+ tree-merge) time: 209.52 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=16 ===
+srun: job 277511 queued and waiting for resources
+srun: job 277511 has been allocated resources
+Total (Get Data + sort) time: 278.449 s
+Total (parallel sort+ tree-merge) time: 226.548 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=32 ===
+srun: job 277560 queued and waiting for resources
+srun: job 277560 has been allocated resources
+Total (Get Data + sort) time: 315.657 s
+Total (parallel sort+ tree-merge) time: 242.452 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=1 ===
+srun: job 277602 queued and waiting for resources
+srun: job 277602 has been allocated resources
+Total (Get Data + sort) time: 284.022 s
+Total (parallel sort+ tree-merge) time: 236.014 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=16 ===
+srun: job 277622 queued and waiting for resources
+srun: job 277622 has been allocated resources
+Total (Get Data + sort) time: 274.668 s
+Total (parallel sort+ tree-merge) time: 221.694 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=32 ===
+srun: job 277640 queued and waiting for resources
+srun: job 277640 has been allocated resources
+Total (Get Data + sort) time: 309.468 s
+Total (parallel sort+ tree-merge) time: 231.045 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=1 ===
+srun: job 277690 queued and waiting for resources
+srun: job 277690 has been allocated resources
+Total (Get Data + sort) time: 17.3151 s
+Total (parallel sort+ tree-merge) time: 12.6387 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=16 ===
+srun: job 277699 queued and waiting for resources
+srun: job 277699 has been allocated resources
+Total (Get Data + sort) time: 19.099 s
+Total (parallel sort+ tree-merge) time: 13.0903 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=32 ===
+srun: job 277720 queued and waiting for resources
+srun: job 277720 has been allocated resources
+Total (Get Data + sort) time: 20.9136 s
+Total (parallel sort+ tree-merge) time: 13.5367 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=1 ===
+srun: job 277734 queued and waiting for resources
+srun: job 277734 has been allocated resources
+Total (Get Data + sort) time: 17.3685 s
+Total (parallel sort+ tree-merge) time: 12.6504 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=16 ===
+srun: job 277750 queued and waiting for resources
+srun: job 277750 has been allocated resources
+Total (Get Data + sort) time: 18.523 s
+Total (parallel sort+ tree-merge) time: 13.232 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=32 ===
+srun: job 277770 queued and waiting for resources
+srun: job 277770 has been allocated resources
+Total (Get Data + sort) time: 21.1154 s
+Total (parallel sort+ tree-merge) time: 13.3064 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=1 ===
+srun: job 277802 queued and waiting for resources
+srun: job 277802 has been allocated resources
+Total (Get Data + sort) time: 17.4715 s
+Total (parallel sort+ tree-merge) time: 12.779 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=16 ===
+srun: job 277826 queued and waiting for resources
+srun: job 277826 has been allocated resources
+Total (Get Data + sort) time: 18.5103 s
+Total (parallel sort+ tree-merge) time: 12.9651 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=32 ===
+srun: job 277850 queued and waiting for resources
+srun: job 277850 has been allocated resources
+Total (Get Data + sort) time: 21.2618 s
+Total (parallel sort+ tree-merge) time: 13.6866 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=1 ===
+srun: job 277865 queued and waiting for resources
+srun: job 277865 has been allocated resources
+Total (Get Data + sort) time: 17.7787 s
+Total (parallel sort+ tree-merge) time: 12.8044 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=16 ===
+srun: job 277874 queued and waiting for resources
+srun: job 277874 has been allocated resources
+Total (Get Data + sort) time: 18.5364 s
+Total (parallel sort+ tree-merge) time: 13.441 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=32 ===
+srun: job 277887 queued and waiting for resources
+srun: job 277887 has been allocated resources
+Total (Get Data + sort) time: 21.6688 s
+Total (parallel sort+ tree-merge) time: 13.7272 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=1 ===
+srun: job 277897 queued and waiting for resources
+srun: job 277897 has been allocated resources
+Total (Get Data + sort) time: 254.937 s
+Total (parallel sort+ tree-merge) time: 207.653 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=16 ===
+srun: job 277912 queued and waiting for resources
+srun: job 277912 has been allocated resources
+Total (Get Data + sort) time: 281.04 s
+Total (parallel sort+ tree-merge) time: 223.55 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=32 ===
+srun: job 277936 queued and waiting for resources
+srun: job 277936 has been allocated resources
+Total (Get Data + sort) time: 296.524 s
+Total (parallel sort+ tree-merge) time: 222.718 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=1 ===
+srun: job 277951 queued and waiting for resources
+srun: job 277951 has been allocated resources
+Total (Get Data + sort) time: 253.376 s
+Total (parallel sort+ tree-merge) time: 206.183 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=16 ===
+srun: job 277963 queued and waiting for resources
+srun: job 277963 has been allocated resources
+Total (Get Data + sort) time: 280.223 s
+Total (parallel sort+ tree-merge) time: 226.989 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=32 ===
+srun: job 277975 queued and waiting for resources
+srun: job 277975 has been allocated resources
+Total (Get Data + sort) time: 308.603 s
+Total (parallel sort+ tree-merge) time: 229.81 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=1 ===
+srun: job 277990 queued and waiting for resources
+srun: job 277990 has been allocated resources
+Total (Get Data + sort) time: 252.002 s
+Total (parallel sort+ tree-merge) time: 204.898 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=16 ===
+srun: job 278001 queued and waiting for resources
+srun: job 278001 has been allocated resources
+Total (Get Data + sort) time: 274.965 s
+Total (parallel sort+ tree-merge) time: 222.97 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=32 ===
+srun: job 278025 queued and waiting for resources
+srun: job 278025 has been allocated resources
+Total (Get Data + sort) time: 415.254 s
+Total (parallel sort+ tree-merge) time: 235.349 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=1 ===
+srun: job 278084 queued and waiting for resources
+srun: job 278084 has been allocated resources
+Total (Get Data + sort) time: 295.684 s
+Total (parallel sort+ tree-merge) time: 214.152 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=16 ===
+srun: job 278326 queued and waiting for resources
+srun: job 278326 has been allocated resources
+Total (Get Data + sort) time: 388.348 s
+Total (parallel sort+ tree-merge) time: 231.205 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=32 ===
+srun: job 278338 queued and waiting for resources
+srun: job 278338 has been allocated resources
+Total (Get Data + sort) time: 332.714 s
+Total (parallel sort+ tree-merge) time: 234.266 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=1 ===
+srun: job 278358 queued and waiting for resources
+srun: job 278358 has been allocated resources
+Total (Get Data + sort) time: 24.6905 s
+Total (parallel sort+ tree-merge) time: 12.9773 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=16 ===
+srun: job 277699 queued and waiting for resources
+srun: job 277699 has been allocated resources
+Total (Get Data + sort) time: 19.099 s
+Total (parallel sort+ tree-merge) time: 13.0903 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=32 ===
+srun: job 277720 queued and waiting for resources
+srun: job 277720 has been allocated resources
+Total (Get Data + sort) time: 20.9136 s
+Total (parallel sort+ tree-merge) time: 13.5367 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 277734 queued and waiting for resources
+srun: job 277734 has been allocated resources
+Total (Get Data + sort) time: 17.3685 s
+Total (parallel sort+ tree-merge) time: 12.6504 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=16 ===
+srun: job 277750 queued and waiting for resources
+srun: job 277750 has been allocated resources
+Total (Get Data + sort) time: 18.523 s
+Total (parallel sort+ tree-merge) time: 13.232 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=32 ===
+srun: job 277770 queued and waiting for resources
+srun: job 277770 has been allocated resources
+Total (Get Data + sort) time: 21.1154 s
+Total (parallel sort+ tree-merge) time: 13.3064 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=1 ===
+srun: job 277802 queued and waiting for resources
+srun: job 277802 has been allocated resources
+Total (Get Data + sort) time: 17.4715 s
+Total (parallel sort+ tree-merge) time: 12.779 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=16 ===
+srun: job 277826 queued and waiting for resources
+srun: job 277826 has been allocated resources
+Total (Get Data + sort) time: 18.5103 s
+Total (parallel sort+ tree-merge) time: 12.9651 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=32 ===
+srun: job 277850 queued and waiting for resources
+srun: job 277850 has been allocated resources
+Total (Get Data + sort) time: 21.2618 s
+Total (parallel sort+ tree-merge) time: 13.6866 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=1 ===
+srun: job 277865 queued and waiting for resources
+srun: job 277865 has been allocated resources
+Total (Get Data + sort) time: 17.7787 s
+Total (parallel sort+ tree-merge) time: 12.8044 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=16 ===
+srun: job 277874 queued and waiting for resources
+srun: job 277874 has been allocated resources
+Total (Get Data + sort) time: 18.5364 s
+Total (parallel sort+ tree-merge) time: 13.441 s
+Output is sorted correctly.
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=32 ===
+srun: job 277887 queued and waiting for resources
+srun: job 277887 has been allocated resources
+Total (Get Data + sort) time: 21.6688 s
+Total (parallel sort+ tree-merge) time: 13.7272 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=1 ===
+srun: job 277897 queued and waiting for resources
+srun: job 277897 has been allocated resources
+Total (Get Data + sort) time: 254.937 s
+Total (parallel sort+ tree-merge) time: 207.653 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=16 ===
+srun: job 277912 queued and waiting for resources
+srun: job 277912 has been allocated resources
+Total (Get Data + sort) time: 281.04 s
+Total (parallel sort+ tree-merge) time: 223.55 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=32 ===
+srun: job 277936 queued and waiting for resources
+srun: job 277936 has been allocated resources
+Total (Get Data + sort) time: 296.524 s
+Total (parallel sort+ tree-merge) time: 222.718 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 277951 queued and waiting for resources
+srun: job 277951 has been allocated resources
+Total (Get Data + sort) time: 253.376 s
+Total (parallel sort+ tree-merge) time: 206.183 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=16 ===
+srun: job 277963 queued and waiting for resources
+srun: job 277963 has been allocated resources
+Total (Get Data + sort) time: 280.223 s
+Total (parallel sort+ tree-merge) time: 226.989 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=32 ===
+srun: job 277975 queued and waiting for resources
+srun: job 277975 has been allocated resources
+Total (Get Data + sort) time: 308.603 s
+Total (parallel sort+ tree-merge) time: 229.81 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=1 ===
+srun: job 277990 queued and waiting for resources
+srun: job 277990 has been allocated resources
+Total (Get Data + sort) time: 252.002 s
+Total (parallel sort+ tree-merge) time: 204.898 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=16 ===
+srun: job 278001 queued and waiting for resources
+srun: job 278001 has been allocated resources
+Total (Get Data + sort) time: 274.965 s
+Total (parallel sort+ tree-merge) time: 222.97 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=32 ===
+srun: job 278025 queued and waiting for resources
+srun: job 278025 has been allocated resources
+Total (Get Data + sort) time: 415.254 s
+Total (parallel sort+ tree-merge) time: 235.349 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=1 ===
+srun: job 278084 queued and waiting for resources
+srun: job 278084 has been allocated resources
+Total (Get Data + sort) time: 295.684 s
+Total (parallel sort+ tree-merge) time: 214.152 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=16 ===
+srun: job 278326 queued and waiting for resources
+srun: job 278326 has been allocated resources
+Total (Get Data + sort) time: 388.348 s
+Total (parallel sort+ tree-merge) time: 231.205 s
+Output is sorted correctly.
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=32 ===
+srun: job 278338 queued and waiting for resources
+srun: job 278338 has been allocated resources
+Total (Get Data + sort) time: 332.714 s
+Total (parallel sort+ tree-merge) time: 234.266 s
+Output is sorted correctly.
+
+

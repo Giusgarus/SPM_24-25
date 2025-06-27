@@ -1,0 +1,7 @@
+,source,size,payload,total_time [s]
+0,Plain_8B,10M,8,3.08819
+2,Plain_64B,10M,64,8.01091
+4,Plain_256B,10M,256,35.268
+6,Plain_8B,100M,8,32.547
+8,Plain_64B,100M,64,93.2997
+10,Plain_256B,100M,256,435.444

@@ -1,0 +1,140 @@
+=== COMPILAZIONE ===
+rm -f miniz_plain miniz_parallel
+srun: job 190121 queued and waiting for resources
+srun: job 190121 has been allocated resources
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_plain miniz_plain.cpp ./miniz/miniz.c 
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_parallel miniz_parallel.cpp ./miniz/miniz.c -pthread -fopenmp
+
+=== RUN con OMP_NUM_THREADS=1 ===
+srun: job 190122 queued and waiting for resources
+srun: job 190122 has been allocated resources
+[OpenMP] USING UP TO 1 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.00131753s
+# elapsed time (Processing): 16.3755s
+
+=== RUN con OMP_NUM_THREADS=4 ===
+srun: job 190123 queued and waiting for resources
+srun: job 190123 has been allocated resources
+[OpenMP] USING UP TO 4 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.0199674s
+# elapsed time (Processing): 5.83797s
+
+=== RUN con OMP_NUM_THREADS=8 ===
+srun: job 190124 queued and waiting for resources
+srun: job 190124 has been allocated resources
+[OpenMP] USING UP TO 8 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.0148734s
+# elapsed time (Processing): 4.73028s
+
+=== RUN con OMP_NUM_THREADS=16 ===
+srun: job 190125 queued and waiting for resources
+srun: job 190125 has been allocated resources
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.00828364s
+# elapsed time (Processing): 3.07531s
+
+=== RUN con OMP_NUM_THREADS=32 ===
+srun: job 190126 queued and waiting for resources
+srun: job 190126 has been allocated resources
+[OpenMP] USING UP TO 32 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.00909799s
+# elapsed time (Processing): 2.73403s
+
+=== COMPILAZIONE ===
+rm -f miniz_plain miniz_parallel
+srun: job 190129 queued and waiting for resources
+srun: job 190129 has been allocated resources
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_plain miniz_plain.cpp ./miniz/miniz.c 
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_parallel miniz_parallel.cpp ./miniz/miniz.c -pthread -fopenmp
+
+=== RUN con OMP_NUM_THREADS=1 ===
+srun: job 190130 queued and waiting for resources
+srun: job 190130 has been allocated resources
+[OpenMP] USING UP TO 1 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.00134224s
+# elapsed time (Processing): 17.7406s
+
+=== RUN con OMP_NUM_THREADS=4 ===
+srun: job 190131 queued and waiting for resources
+srun: job 190131 has been allocated resources
+[OpenMP] USING UP TO 4 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.00764904s
+# elapsed time (Processing): 4.47959s
+
+=== RUN con OMP_NUM_THREADS=8 ===
+srun: job 190132 queued and waiting for resources
+srun: job 190132 has been allocated resources
+[OpenMP] USING UP TO 8 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.0434406s
+# elapsed time (Processing): 3.82236s
+
+=== RUN con OMP_NUM_THREADS=16 ===
+srun: job 190133 queued and waiting for resources
+srun: job 190133 has been allocated resources
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.00596221s
+# elapsed time (Processing): 3.0556s
+
+=== RUN con OMP_NUM_THREADS=32 ===
+srun: job 190134 queued and waiting for resources
+srun: job 190134 has been allocated resources
+[OpenMP] USING UP TO 32 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.00737762s
+# elapsed time (Processing): 2.74612s
+
+=== COMPILAZIONE ===
+rm -f miniz_plain miniz_parallel
+srun: job 190143 queued and waiting for resources
+srun: job 190143 has been allocated resources
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_plain miniz_plain.cpp ./miniz/miniz.c 
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_parallel miniz_parallel.cpp ./miniz/miniz.c -pthread -fopenmp
+
+=== RUN con OMP_NUM_THREADS=1 ===
+srun: job 190144 queued and waiting for resources
+srun: job 190144 has been allocated resources
+[OpenMP] USING UP TO 1 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.0013806s
+# elapsed time (Processing): 16.267s
+
+=== RUN con OMP_NUM_THREADS=4 ===
+srun: job 190145 queued and waiting for resources
+srun: job 190145 has been allocated resources
+[OpenMP] USING UP TO 4 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.0074537s
+# elapsed time (Processing): 5.0187s
+
+=== RUN con OMP_NUM_THREADS=8 ===
+srun: job 190146 queued and waiting for resources
+srun: job 190146 has been allocated resources
+[OpenMP] USING UP TO 8 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.00143637s
+# elapsed time (Processing): 4.20184s
+
+=== RUN con OMP_NUM_THREADS=16 ===
+srun: job 190147 queued and waiting for resources
+srun: job 190147 has been allocated resources
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.00708568s
+# elapsed time (Processing): 2.84636s
+
+=== RUN con OMP_NUM_THREADS=32 ===
+srun: job 190148 queued and waiting for resources
+srun: job 190148 has been allocated resources
+[OpenMP] USING UP TO 32 THREADS
+Default chunk size: 256KB
+# elapsed time (Scan_Folders): 0.025429s
+# elapsed time (Processing): 2.6978s

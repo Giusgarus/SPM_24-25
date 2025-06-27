@@ -1,0 +1,18 @@
+=== SIZE=20M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=1 ===
+srun: job 280911 queued and waiting for resources
+srun: job 280911 has been allocated resources
+Total time (Get Data + sort): 14.621 s
+Total sort time: 7.25648 s
+
+=== SIZE=80M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=1 ===
+srun: job 280914 queued and waiting for resources
+srun: job 280914 has been allocated resources
+Total time (Get Data + sort): 55.0331 s
+Total sort time: 43.2794 s
+
+=== SIZE=160M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 280920 queued and waiting for resources
+srun: job 280920 has been allocated resources
+Total time (Get Data + sort): 95.9948 s
+Total sort time: 77.9391 s
+

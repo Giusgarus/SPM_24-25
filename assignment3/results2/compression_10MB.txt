@@ -1,0 +1,98 @@
+=== COMPILAZIONE ===
+srun: job 190727 queued and waiting for resources
+srun: job 190727 has been allocated resources
+rm -f miniz_plain miniz_parallel
+srun: job 190728 queued and waiting for resources
+srun: job 190728 has been allocated resources
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_plain miniz_plain.cpp ./miniz/miniz.c 
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_parallel miniz_parallel.cpp ./miniz/miniz.c -pthread -fopenmp
+
+=== RUN #1 con OMP_NUM_THREADS=1 ===
+[OpenMP] USING UP TO 1 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00107034s
+# elapsed time (Processing): 52.0881s
+
+=== RUN #2 con OMP_NUM_THREADS=1 ===
+[OpenMP] USING UP TO 1 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00113281s
+# elapsed time (Processing): 61.2376s
+
+=== RUN #3 con OMP_NUM_THREADS=1 ===
+[OpenMP] USING UP TO 1 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00111792s
+# elapsed time (Processing): 47.0618s
+
+=== RUN #1 con OMP_NUM_THREADS=4 ===
+[OpenMP] USING UP TO 4 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00114306s
+# elapsed time (Processing): 11.7835s
+
+=== RUN #2 con OMP_NUM_THREADS=4 ===
+[OpenMP] USING UP TO 4 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00107687s
+# elapsed time (Processing): 11.9711s
+
+=== RUN #3 con OMP_NUM_THREADS=4 ===
+[OpenMP] USING UP TO 4 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00107656s
+# elapsed time (Processing): 11.8424s
+
+=== RUN #1 con OMP_NUM_THREADS=8 ===
+[OpenMP] USING UP TO 8 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00110924s
+# elapsed time (Processing): 7.22334s
+
+=== RUN #2 con OMP_NUM_THREADS=8 ===
+[OpenMP] USING UP TO 8 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00111926s
+# elapsed time (Processing): 7.07414s
+
+=== RUN #3 con OMP_NUM_THREADS=8 ===
+[OpenMP] USING UP TO 8 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00110022s
+# elapsed time (Processing): 13.5975s
+
+=== RUN #1 con OMP_NUM_THREADS=16 ===
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.0011189s
+# elapsed time (Processing): 5.69699s
+
+=== RUN #2 con OMP_NUM_THREADS=16 ===
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00108887s
+# elapsed time (Processing): 5.78631s
+
+=== RUN #3 con OMP_NUM_THREADS=16 ===
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00103366s
+# elapsed time (Processing): 5.5774s
+
+=== RUN #1 con OMP_NUM_THREADS=32 ===
+[OpenMP] USING UP TO 32 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00104894s
+# elapsed time (Processing): 8.95507s
+
+=== RUN #2 con OMP_NUM_THREADS=32 ===
+[OpenMP] USING UP TO 32 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00104261s
+# elapsed time (Processing): 6.49631s
+
+=== RUN #3 con OMP_NUM_THREADS=32 ===
+[OpenMP] USING UP TO 32 THREADS
+Default chunk size: 10MB
+# elapsed time (Scan_Folders): 0.00105718s
+# elapsed time (Processing): 6.52096s

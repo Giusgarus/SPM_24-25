@@ -1,0 +1,18 @@
+=== SIZE=20M | PAYLOAD=64 | THREADS=8 | NODES=1 | TASKS=1 ===
+Total (get data) time: 3.13157 s
+Total (sort) time: 18.3892 s
+Total (write) time: 13.6676 s
+TOTAL TIME: 35.1883 s
+
+=== SIZE=80M | PAYLOAD=64 | THREADS=8 | NODES=4 | TASKS=1 ===
+Total (get data) time: 13.2791 s
+Total (sort) time: 85.1038 s
+Total (write) time: 56.9623 s
+TOTAL TIME: 155.345 s
+
+=== SIZE=160M | PAYLOAD=64 | THREADS=8 | NODES=8 | TASKS=1 ===
+Total (get data) time: 26.1094 s
+Total (sort) time: 184.342 s
+Total (write) time: 359.387 s
+TOTAL TIME: 569.839 s
+

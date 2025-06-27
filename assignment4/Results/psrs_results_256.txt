@@ -1,0 +1,522 @@
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=1 ===
+srun: job 296990 queued and waiting for resources
+srun: job 296990 has been allocated resources
+Total (get data) time: 2.65142 s
+Total (sort) time: 0.260446 s
+Total (write) time: 1.82398 s
+TOTAL TIME: 4.73585 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=16 ===
+Total (get data) time: 3.01065 s
+Total (sort) time: 0.896957 s
+Total (write) time: 16.5139 s
+TOTAL TIME: 20.4215 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=32 ===
+Total (get data) time: 2.83663 s
+Total (sort) time: 0.952529 s
+Total (write) time: 16.7013 s
+TOTAL TIME: 20.4904 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=1 ===
+Total (get data) time: 2.64077 s
+Total (sort) time: 0.211453 s
+Total (write) time: 1.93646 s
+TOTAL TIME: 4.78868 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=16 ===
+Total (get data) time: 2.75323 s
+Total (sort) time: 2.13428 s
+Total (write) time: 17.3722 s
+TOTAL TIME: 22.2597 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=32 ===
+Total (get data) time: 2.95875 s
+Total (sort) time: 2.39795 s
+Total (write) time: 17.4392 s
+TOTAL TIME: 22.7959 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=1 ===
+srun: job 296998 queued and waiting for resources
+srun: job 296998 has been allocated resources
+Total (get data) time: 2.66784 s
+Total (sort) time: 0.201655 s
+Total (write) time: 1.82776 s
+TOTAL TIME: 4.69725 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=16 ===
+Total (get data) time: 3.01549 s
+Total (sort) time: 2.04664 s
+Total (write) time: 18.1166 s
+TOTAL TIME: 23.1787 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=32 ===
+Total (get data) time: 2.9887 s
+Total (sort) time: 2.45866 s
+Total (write) time: 17.4009 s
+TOTAL TIME: 22.8483 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=1 ===
+Total (get data) time: 2.64307 s
+Total (sort) time: 0.208548 s
+Total (write) time: 1.85161 s
+TOTAL TIME: 4.70323 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=16 ===
+Total (get data) time: 2.67987 s
+Total (sort) time: 2.62343 s
+Total (write) time: 21.6478 s
+TOTAL TIME: 26.9511 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=32 ===
+Total (get data) time: 2.91944 s
+Total (sort) time: 3.09251 s
+Total (write) time: 17.9977 s
+TOTAL TIME: 24.0096 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=1 ===
+srun: job 297007 queued and waiting for resources
+srun: job 297007 has been allocated resources
+Total (get data) time: 26.8599 s
+Total (sort) time: 3.2967 s
+Total (write) time: 22.2128 s
+TOTAL TIME: 52.3694 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=16 ===
+Total (get data) time: 27.8489 s
+Total (sort) time: 11.8563 s
+Total (write) time: 226.65 s
+TOTAL TIME: 266.355 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=1 | TASKS=32 ===
+srun: job 297011 queued and waiting for resources
+srun: job 297011 has been allocated resources
+Total (get data) time: 26.9255 s
+Total (sort) time: 11.1089 s
+Total (write) time: 213.023 s
+TOTAL TIME: 251.057 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=1 ===
+srun: job 297014 queued and waiting for resources
+srun: job 297014 has been allocated resources
+Total (get data) time: 26.8295 s
+Total (sort) time: 2.59599 s
+Total (write) time: 21.728 s
+TOTAL TIME: 51.1535 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=16 ===
+Total (get data) time: 28.8035 s
+Total (sort) time: 18.389 s
+Total (write) time: 183.046 s
+TOTAL TIME: 230.239 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=32 ===
+srun: job 297018 queued and waiting for resources
+srun: job 297018 has been allocated resources
+Total (get data) time: 26.8983 s
+Total (sort) time: 16.7495 s
+Total (write) time: 198.504 s
+TOTAL TIME: 242.152 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=1 ===
+srun: job 297022 queued and waiting for resources
+srun: job 297022 has been allocated resources
+Total (get data) time: 26.6268 s
+Total (sort) time: 2.45017 s
+Total (write) time: 22.0141 s
+TOTAL TIME: 51.091 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=16 ===
+Total (get data) time: 26.8855 s
+Total (sort) time: 19.7197 s
+Total (write) time: 217.71 s
+TOTAL TIME: 264.315 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=1 | TASKS=32 ===
+srun: job 297025 queued and waiting for resources
+srun: job 297025 has been allocated resources
+Total (get data) time: 27.0364 s
+Total (sort) time: 16.7714 s
+Total (write) time: 223.01 s
+TOTAL TIME: 266.818 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=1 ===
+Total (get data) time: 26.8803 s
+Total (sort) time: 2.49896 s
+Total (write) time: 21.7052 s
+TOTAL TIME: 51.0844 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=16 ===
+Total (get data) time: 27.0766 s
+Total (sort) time: 17.2532 s
+Total (write) time: 192.992 s
+TOTAL TIME: 237.321 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=1 | TASKS=32 ===
+Total (get data) time: 26.8171 s
+Total (sort) time: 23.3608 s
+Total (write) time: 180.876 s
+TOTAL TIME: 231.053 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=1 ===
+Total (get data) time: 4.94157 s
+Total (sort) time: 2.87995 s
+Total (write) time: 16.9966 s
+TOTAL TIME: 24.8181 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=16 ===
+Total (get data) time: 2.37915 s
+Total (sort) time: 2.67954 s
+Total (write) time: 15.9889 s
+TOTAL TIME: 21.0476 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=32 ===
+Total (get data) time: 2.62139 s
+Total (sort) time: 1.27348 s
+Total (write) time: 17.8366 s
+TOTAL TIME: 21.7315 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=1 ===
+Total (get data) time: 4.80142 s
+Total (sort) time: 2.70472 s
+Total (write) time: 17.1785 s
+TOTAL TIME: 24.6846 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=16 ===
+Total (get data) time: 2.53373 s
+Total (sort) time: 2.91772 s
+Total (write) time: 16.4274 s
+TOTAL TIME: 21.8788 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=32 ===
+Total (get data) time: 2.57164 s
+Total (sort) time: 2.22097 s
+Total (write) time: 18.267 s
+TOTAL TIME: 23.0596 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=1 ===
+Total (get data) time: 4.85374 s
+Total (sort) time: 2.62453 s
+Total (write) time: 17.1571 s
+TOTAL TIME: 24.6354 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=16 ===
+Total (get data) time: 2.51504 s
+Total (sort) time: 4.06592 s
+Total (write) time: 15.7516 s
+TOTAL TIME: 22.3326 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=32 ===
+Total (get data) time: 2.5731 s
+Total (sort) time: 2.37255 s
+Total (write) time: 18.2799 s
+TOTAL TIME: 23.2255 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=1 ===
+Total (get data) time: 4.92508 s
+Total (sort) time: 2.65354 s
+Total (write) time: 17.2963 s
+TOTAL TIME: 24.875 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=16 ===
+Total (get data) time: 2.51498 s
+Total (sort) time: 2.14264 s
+Total (write) time: 23.6972 s
+TOTAL TIME: 28.3548 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=32 ===
+srun: job 297041 queued and waiting for resources
+srun: job 297041 has been allocated resources
+Total (get data) time: 3.26071 s
+Total (sort) time: 2.71004 s
+Total (write) time: 38.1894 s
+TOTAL TIME: 44.1602 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=1 ===
+srun: job 297042 queued and waiting for resources
+srun: job 297042 has been allocated resources
+Total (get data) time: 6.71553 s
+Total (sort) time: 54.4363 s
+Total (write) time: 52.3368 s
+TOTAL TIME: 113.489 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=16 ===
+Total (get data) time: 23.0364 s
+Total (sort) time: 8.32217 s
+Total (write) time: 164.597 s
+TOTAL TIME: 195.956 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=4 | TASKS=32 ===
+Total (get data) time: 23.2264 s
+Total (sort) time: 6.45715 s
+Total (write) time: 174.366 s
+TOTAL TIME: 204.049 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=1 ===
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-node01: error: *** STEP 297045.0 ON node01 CANCELLED AT 2025-06-18T15:45:46 DUE TO TIME LIMIT ***
+srun: error: node04: task 3: Terminated
+srun: error: node03: task 2: Terminated
+srun: error: node02: task 1: Terminated
+srun: error: node01: task 0: Terminated
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=16 ===
+Total (get data) time: 26.8217 s
+Total (sort) time: 9.15422 s
+Total (write) time: 186.325 s
+TOTAL TIME: 222.301 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=32 ===
+Total (get data) time: 23.2422 s
+Total (sort) time: 8.55363 s
+Total (write) time: 189.948 s
+TOTAL TIME: 221.744 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=1 ===
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-node02: error: *** STEP 297090.0 ON node02 CANCELLED AT 2025-06-18T16:03:46 DUE TO TIME LIMIT ***
+srun: error: node03: task 1: Terminated
+srun: error: node05: task 3: Terminated
+srun: error: node04: task 2: Terminated
+srun: error: node02: task 0: Terminated
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=16 ===
+Total (get data) time: 23.3638 s
+Total (sort) time: 9.45405 s
+Total (write) time: 176.803 s
+TOTAL TIME: 209.621 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=4 | TASKS=32 ===
+Total (get data) time: 23.2287 s
+Total (sort) time: 8.65782 s
+Total (write) time: 181.48 s
+TOTAL TIME: 213.367 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=1 ===
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-node01: error: *** STEP 297100.0 ON node01 CANCELLED AT 2025-06-18T16:21:16 DUE TO TIME LIMIT ***
+srun: error: node02: task 1: Terminated
+srun: error: node04: task 3: Terminated
+srun: error: node03: task 2: Terminated
+srun: error: node01: task 0: Terminated
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=16 ===
+srun: job 297103 queued and waiting for resources
+srun: job 297103 has been allocated resources
+Total (get data) time: 23.2481 s
+Total (sort) time: 10.8851 s
+Total (write) time: 254.07 s
+TOTAL TIME: 288.203 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=4 | TASKS=32 ===
+Total (get data) time: 23.8288 s
+Total (sort) time: 9.55617 s
+Total (write) time: 174.01 s
+TOTAL TIME: 207.395 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=1 ===
+Total (get data) time: 4.65116 s
+Total (sort) time: 1.60266 s
+Total (write) time: 16.0749 s
+TOTAL TIME: 22.3287 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=16 ===
+srun: job 297115 queued and waiting for resources
+srun: job 297115 has been allocated resources
+Total (get data) time: 2.40331 s
+Total (sort) time: 0.846294 s
+Total (write) time: 17.1111 s
+TOTAL TIME: 20.3607 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=32 ===
+srun: job 297117 queued and waiting for resources
+srun: job 297117 has been allocated resources
+Total (get data) time: 2.53824 s
+Total (sort) time: 1.2125 s
+Total (write) time: 18.0377 s
+TOTAL TIME: 21.7885 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 297119 queued and waiting for resources
+srun: job 297119 has been allocated resources
+Total (get data) time: 4.63173 s
+Total (sort) time: 1.53473 s
+Total (write) time: 16.1091 s
+TOTAL TIME: 22.2756 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=16 ===
+srun: job 297121 queued and waiting for resources
+srun: job 297121 has been allocated resources
+Total (get data) time: 2.51992 s
+Total (sort) time: 1.32485 s
+Total (write) time: 17.5193 s
+TOTAL TIME: 21.3641 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=32 ===
+srun: job 297122 queued and waiting for resources
+srun: job 297122 has been allocated resources
+Total (get data) time: 2.55293 s
+Total (sort) time: 2.78715 s
+Total (write) time: 18.9861 s
+TOTAL TIME: 24.3262 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=1 ===
+srun: job 297124 queued and waiting for resources
+srun: job 297124 has been allocated resources
+Total (get data) time: 4.62081 s
+Total (sort) time: 1.49937 s
+Total (write) time: 15.6314 s
+TOTAL TIME: 21.7515 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=16 ===
+srun: job 297126 queued and waiting for resources
+srun: job 297126 has been allocated resources
+Total (get data) time: 2.47486 s
+Total (sort) time: 1.48991 s
+Total (write) time: 16.8794 s
+TOTAL TIME: 20.8442 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=32 ===
+srun: job 297127 queued and waiting for resources
+srun: job 297127 has been allocated resources
+Total (get data) time: 2.58059 s
+Total (sort) time: 3.59575 s
+Total (write) time: 18.2344 s
+TOTAL TIME: 24.4108 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=1 ===
+srun: job 297128 queued and waiting for resources
+srun: job 297128 has been allocated resources
+Total (get data) time: 4.64083 s
+Total (sort) time: 1.51349 s
+Total (write) time: 16.1311 s
+TOTAL TIME: 22.2854 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=16 ===
+srun: job 297129 queued and waiting for resources
+srun: job 297129 has been allocated resources
+Total (get data) time: 2.37319 s
+Total (sort) time: 1.67794 s
+Total (write) time: 17.0584 s
+TOTAL TIME: 21.1095 s
+
+=== SIZE=10M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=32 ===
+srun: job 297130 queued and waiting for resources
+srun: job 297130 has been allocated resources
+Total (get data) time: 2.44263 s
+Total (sort) time: 3.58463 s
+Total (write) time: 18.3894 s
+TOTAL TIME: 24.4166 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=1 ===
+srun: job 297132 queued and waiting for resources
+srun: job 297132 has been allocated resources
+Total (get data) time: 4.11928 s
+Total (sort) time: 52.1947 s
+Total (write) time: 44.9502 s
+TOTAL TIME: 101.264 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=16 ===
+srun: job 297134 queued and waiting for resources
+srun: job 297134 has been allocated resources
+Total (get data) time: 23.0049 s
+Total (sort) time: 4.10858 s
+Total (write) time: 163.225 s
+TOTAL TIME: 190.339 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=1 | NODES=8 | TASKS=32 ===
+srun: job 297136 queued and waiting for resources
+srun: job 297136 has been allocated resources
+Total (get data) time: 23.0673 s
+Total (sort) time: 16.8767 s
+Total (write) time: 170.058 s
+TOTAL TIME: 210.002 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 297138 queued and waiting for resources
+srun: job 297138 has been allocated resources
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-node01: error: *** STEP 297138.0 ON node01 CANCELLED AT 2025-06-18T16:59:46 DUE TO TIME LIMIT ***
+srun: error: node08: task 7: Terminated
+srun: error: node04: task 3: Terminated
+srun: error: node06: task 5: Terminated
+srun: error: node03: task 2: Terminated
+srun: error: node02: task 1: Terminated
+srun: error: node07: task 6: Terminated
+srun: error: node05: task 4: Terminated
+srun: error: node01: task 0: Terminated
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=16 ===
+srun: job 297140 queued and waiting for resources
+srun: job 297140 has been allocated resources
+Total (get data) time: 23.0265 s
+Total (sort) time: 5.08192 s
+Total (write) time: 163.033 s
+TOTAL TIME: 191.141 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=32 ===
+srun: job 297143 queued and waiting for resources
+srun: job 297143 has been allocated resources
+Total (get data) time: 23.0281 s
+Total (sort) time: 18.5162 s
+Total (write) time: 174.065 s
+TOTAL TIME: 215.61 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=1 ===
+srun: job 297145 queued and waiting for resources
+srun: job 297145 has been allocated resources
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-node01: error: *** STEP 297145.0 ON node01 CANCELLED AT 2025-06-18T17:17:16 DUE TO TIME LIMIT ***
+srun: error: node06: task 5: Terminated
+srun: error: node04: task 3: Terminated
+srun: error: node03: task 2: Terminated
+srun: error: node07: task 6: Terminated
+srun: error: node08: task 7: Terminated
+srun: error: node05: task 4: Terminated
+srun: error: node02: task 1: Terminated
+srun: error: node01: task 0: Terminated
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=16 ===
+srun: job 297148 queued and waiting for resources
+srun: job 297148 has been allocated resources
+Total (get data) time: 22.8767 s
+Total (sort) time: 4.94116 s
+Total (write) time: 167.335 s
+TOTAL TIME: 195.153 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=16 | NODES=8 | TASKS=32 ===
+srun: job 297150 queued and waiting for resources
+srun: job 297150 has been allocated resources
+Total (get data) time: 22.907 s
+Total (sort) time: 20.9484 s
+Total (write) time: 174.718 s
+TOTAL TIME: 218.574 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=1 ===
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-node01: error: *** STEP 297151.0 ON node01 CANCELLED AT 2025-06-18T17:35:16 DUE TO TIME LIMIT ***
+srun: error: node06: task 5: Terminated
+srun: error: node03: task 2: Terminated
+srun: error: node08: task 7: Terminated
+srun: error: node05: task 4: Terminated
+srun: error: node02: task 1: Terminated
+srun: error: node04: task 3: Terminated
+srun: error: node07: task 6: Terminated
+srun: error: node01: task 0: Terminated
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=16 ===
+srun: job 297154 queued and waiting for resources
+srun: job 297154 has been allocated resources
+Total (get data) time: 22.984 s
+Total (sort) time: 5.73384 s
+Total (write) time: 168.833 s
+TOTAL TIME: 197.551 s
+
+=== SIZE=100M | PAYLOAD=256 | THREADS=32 | NODES=8 | TASKS=32 ===
+srun: job 297154 queued and waiting for resources
+srun: job 297154 has been allocated resources
+Total (get data) time: 22.984 s
+Total (sort) time: 7.73384 s
+Total (write) time: 168.833 s
+TOTAL TIME: 199.551 s
+

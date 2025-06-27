@@ -1,0 +1,21 @@
+=== SIZE=20M | PAYLOAD=256 | THREADS=8 | NODES=1 | TASKS=1 ===
+srun: job 280750 queued and waiting for resources
+srun: job 280750 has been allocated resources
+Total (Get Data + sort) time: 51.6969 s
+Total (parallel sort+ tree-merge) time: 27.3658 s
+Output is sorted correctly.
+
+=== SIZE=80M | PAYLOAD=256 | THREADS=8 | NODES=4 | TASKS=1 ===
+srun: job 280770 queued and waiting for resources
+srun: job 280770 has been allocated resources
+Total (Get Data + sort) time: 172.278 s
+Total (parallel sort+ tree-merge) time: 122.766 s
+Output is sorted correctly.
+
+=== SIZE=160M | PAYLOAD=256 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 280873 queued and waiting for resources
+srun: job 280873 has been allocated resources
+Total (Get Data + sort) time: 320.456 s
+Total (parallel sort+ tree-merge) time: 260.827 s
+Output is sorted correctly.
+

@@ -1,0 +1,14 @@
+=== SIZE=10M | PAYLOAD=256 ===
+srun: job 278527 queued and waiting for resources
+srun: job 278527 has been allocated resources
+Sequential std::sort on 10000000 records (payload 256 B)…
+Total (Get Data + sort) time: 17.0998 s
+Total (sort) time: 5.43912 s
+
+=== SIZE=100M | PAYLOAD=256 ===
+srun: job 278547 queued and waiting for resources
+srun: job 278547 has been allocated resources
+Sequential std::sort on 100000000 records (payload 256 B)…
+Total (Get Data + sort) time: 109.697 s
+Total (sort) time: 64.3235 s
+

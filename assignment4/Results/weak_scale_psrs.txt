@@ -1,0 +1,20 @@
+=== SIZE=20M | PAYLOAD=64 | THREADS=8 | NODES=1 | TASKS=1 ===
+Total (get data) time: 3.38934 s
+Total (sort) time: 0.862193 s
+Total (write) time: 10.4813 s
+TOTAL TIME: 14.7328 s
+
+=== SIZE=80M | PAYLOAD=64 | THREADS=8 | NODES=4 | TASKS=1 ===
+Total (get data) time: 11.5202 s
+Total (sort) time: 9.98796 s
+Total (write) time: 35.9343 s
+TOTAL TIME: 57.4424 s
+
+=== SIZE=160M | PAYLOAD=64 | THREADS=8 | NODES=8 | TASKS=1 ===
+srun: job 297555 queued and waiting for resources
+srun: job 297555 has been allocated resources
+Total (get data) time: 20.8673 s
+Total (sort) time: 11.1812 s
+Total (write) time: 69.0807 s
+TOTAL TIME: 101.129 s
+

@@ -1,0 +1,12 @@
+=== SIZE=10M | PAYLOAD=64 ===
+Total (get data) time: 1.51138 s
+Total (sort) time: 1.64166 s
+Total (write) time: 4.85788 s
+TOTAL TIME: 8.01091 s
+
+=== SIZE=100M | PAYLOAD=64 ===
+Total (get data) time: 14.8898 s
+Total (sort) time: 19.579 s
+Total (write) time: 58.8309 s
+TOTAL TIME: 93.2997 s
+

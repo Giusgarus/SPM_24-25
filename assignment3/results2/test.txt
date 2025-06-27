@@ -1,0 +1,79 @@
+=== COMPILAZIONE ===
+rm -f miniz_plain miniz_parallel
+srun: job 190946 queued and waiting for resources
+srun: job 190946 has been allocated resources
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_parallel miniz_parallel.cpp ./miniz/miniz.c -pthread -fopenmp
+
+=== RUN unico con OMP_NUM_THREADS=16 ===
+srun: job 190948 queued and waiting for resources
+srun: job 190948 has been allocated resources
+--- MD5SUM ---
+a7badae61caa187ca133dc5f01c65340  bigfile1.dat
+2c043c7845b533dd9232aa37f681158b  smallfile1.dat
+2c043c7845b533dd9232aa37f681158b  smallfile1.dat
+--- COMPRESSIONE ---
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 5MB
+# elapsed time (Scan_Folders): 0.00113232s
+# elapsed time (Processing): 5.56083s
+--- DECOMPRESSIONE ---
+terminate called after throwing an instance of 'std::filesystem::__cxx11::filesystem_error'
+  what():  filesystem error: recursive directory iterator cannot open directory: No such file or directory [bigfile1.dat]
+--- MD5SUM ---
+md5sum: bigfile1.dat: No such file or directory
+md5sum: smallfile1.dat: No such file or directory
+md5sum: smallfile1.dat: No such file or directory
+=== COMPILAZIONE ===
+rm -f miniz_plain miniz_parallel
+srun: job 190950 queued and waiting for resources
+srun: job 190950 has been allocated resources
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_parallel miniz_parallel.cpp ./miniz/miniz.c -pthread -fopenmp
+
+=== RUN unico con OMP_NUM_THREADS=16 ===
+srun: job 190952 queued and waiting for resources
+srun: job 190952 has been allocated resources
+--- MD5SUM ---
+b1b58e80a9d82dd089d440d4c721095a  bigfile1.dat
+defee52bdfc75277f724b1f4a2867c4a  smallfile1.dat
+defee52bdfc75277f724b1f4a2867c4a  smallfile1.dat
+--- COMPRESSIONE ---
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 5MB
+# elapsed time (Scan_Folders): 0.000920604s
+# elapsed time (Processing): 5.64339s
+--- DECOMPRESSIONE ---
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 5MB
+# elapsed time (Scan_Folders): 0.742279s
+# elapsed time (Processing): 12.8966s
+--- MD5SUM ---
+b1b58e80a9d82dd089d440d4c721095a  bigfile1.dat
+defee52bdfc75277f724b1f4a2867c4a  smallfile1.dat
+defee52bdfc75277f724b1f4a2867c4a  smallfile1.dat
+=== COMPILAZIONE ===
+rm -f miniz_plain miniz_parallel
+srun: job 190986 queued and waiting for resources
+srun: job 190986 has been allocated resources
+g++ -std=c++20 -Wall  -I . -I ./miniz -I ./include -O3 -o miniz_parallel miniz_parallel.cpp ./miniz/miniz.c -pthread -fopenmp
+
+=== RUN unico con OMP_NUM_THREADS=16 ===
+srun: job 190988 queued and waiting for resources
+srun: job 190988 has been allocated resources
+--- MD5SUM ---
+8f7608e7a8bf489dd5d8e2bdcf561907  bigfile1.dat
+f288c95cb10c5a883e3fc82f2c3bb8eb  smallfile1.dat
+f288c95cb10c5a883e3fc82f2c3bb8eb  smallfile1.dat
+--- COMPRESSIONE ---
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 1MB
+# elapsed time (Scan_Folders): 0.00107145s
+# elapsed time (Processing): 5.83063s
+--- DECOMPRESSIONE ---
+[OpenMP] USING UP TO 16 THREADS
+Default chunk size: 1MB
+# elapsed time (Scan_Folders): 0.742614s
+# elapsed time (Processing): 8.8544s
+--- MD5SUM ---
+8f7608e7a8bf489dd5d8e2bdcf561907  bigfile1.dat
+f288c95cb10c5a883e3fc82f2c3bb8eb  smallfile1.dat
+f288c95cb10c5a883e3fc82f2c3bb8eb  smallfile1.dat

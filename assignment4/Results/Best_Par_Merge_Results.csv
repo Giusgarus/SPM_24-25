@@ -1,0 +1,5 @@
+Dataset (SIZE),Payload,total_time [s],Thread,Nodes,Tasks
+10M,8,10.813,16,4,1
+10M,64,16.286,8,4,1
+100M,8,128.858,16,4,1
+100M,64,197.795,1,4,16

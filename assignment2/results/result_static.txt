@@ -1,0 +1,144 @@
+Static scheduling.
+Running with 1 threads and a block size of 64 numbers.
+# elapsed time (Static_par_time): 54.9157s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 1 threads and a block size of 128 numbers.
+# elapsed time (Static_par_time): 54.7525s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 1 threads and a block size of 256 numbers.
+# elapsed time (Static_par_time): 55.1776s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 1 threads and a block size of 512 numbers.
+# elapsed time (Static_par_time): 54.8068s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 1 threads and a block size of 8192 numbers.
+# elapsed time (Static_par_time): 54.8336s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 1 threads and a block size of 131072 numbers.
+# elapsed time (Static_par_time): 54.8517s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 4 threads and a block size of 64 numbers.
+# elapsed time (Static_par_time): 15.756s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 4 threads and a block size of 128 numbers.
+# elapsed time (Static_par_time): 15.3423s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 4 threads and a block size of 256 numbers.
+# elapsed time (Static_par_time): 14.6326s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 4 threads and a block size of 512 numbers.
+# elapsed time (Static_par_time): 14.9928s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 4 threads and a block size of 8192 numbers.
+# elapsed time (Static_par_time): 14.7205s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 4 threads and a block size of 131072 numbers.
+# elapsed time (Static_par_time): 14.8324s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 16 threads and a block size of 64 numbers.
+# elapsed time (Static_par_time): 4.15432s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 16 threads and a block size of 128 numbers.
+# elapsed time (Static_par_time): 3.98737s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 16 threads and a block size of 256 numbers.
+# elapsed time (Static_par_time): 3.88349s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 16 threads and a block size of 512 numbers.
+# elapsed time (Static_par_time): 3.81904s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 16 threads and a block size of 8192 numbers.
+# elapsed time (Static_par_time): 3.73602s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 16 threads and a block size of 131072 numbers.
+# elapsed time (Static_par_time): 3.75465s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 32 threads and a block size of 64 numbers.
+# elapsed time (Static_par_time): 2.87364s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 32 threads and a block size of 128 numbers.
+# elapsed time (Static_par_time): 2.76594s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 32 threads and a block size of 256 numbers.
+# elapsed time (Static_par_time): 2.6787s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 32 threads and a block size of 512 numbers.
+# elapsed time (Static_par_time): 2.63624s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 32 threads and a block size of 8192 numbers.
+# elapsed time (Static_par_time): 2.59847s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Static scheduling.
+Running with 32 threads and a block size of 131072 numbers.
+# elapsed time (Static_par_time): 2.63165s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984

@@ -1,0 +1,12 @@
+1,3c1,3
+< srun: job 77948 queued and waiting for resources
+< srun: job 77948 has been allocated resources
+< # elapsed time (softime_plain): 9.335e-06s
+---
+> srun: job 77953 queued and waiting for resources
+> srun: job 77953 has been allocated resources
+> # elapsed time (softime2_avx): 1.0274e-05s
+7c7
+< 0.135376
+---
+> 0.135377

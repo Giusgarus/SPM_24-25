@@ -1,0 +1,145 @@
+
+Dynamic scheduling.
+Running with 1 threads and a task size of 64 numbers.
+# elapsed time (Dynamic_par_time): 53.769s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 1 threads and a task size of 128 numbers.
+# elapsed time (Dynamic_par_time): 52.0241s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 1 threads and a task size of 256 numbers.
+# elapsed time (Dynamic_par_time): 51.0346s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 1 threads and a task size of 512 numbers.
+# elapsed time (Dynamic_par_time): 50.5614s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 1 threads and a task size of 8192 numbers.
+# elapsed time (Dynamic_par_time): 48.7576s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 1 threads and a task size of 131072 numbers.
+# elapsed time (Dynamic_par_time): 48.072s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 4 threads and a task size of 64 numbers.
+# elapsed time (Dynamic_par_time): 14.9927s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 4 threads and a task size of 128 numbers.
+# elapsed time (Dynamic_par_time): 14.0733s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 4 threads and a task size of 256 numbers.
+# elapsed time (Dynamic_par_time): 13.5162s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 4 threads and a task size of 512 numbers.
+# elapsed time (Dynamic_par_time): 13.1604s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 4 threads and a task size of 8192 numbers.
+# elapsed time (Dynamic_par_time): 12.9315s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 4 threads and a task size of 131072 numbers.
+# elapsed time (Dynamic_par_time): 12.7812s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 16 threads and a task size of 64 numbers.
+# elapsed time (Dynamic_par_time): 6.05946s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 16 threads and a task size of 128 numbers.
+# elapsed time (Dynamic_par_time): 3.85952s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 16 threads and a task size of 256 numbers.
+# elapsed time (Dynamic_par_time): 3.55176s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 16 threads and a task size of 512 numbers.
+# elapsed time (Dynamic_par_time): 3.51709s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 16 threads and a task size of 8192 numbers.
+# elapsed time (Dynamic_par_time): 3.28999s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 16 threads and a task size of 131072 numbers.
+# elapsed time (Dynamic_par_time): 3.39013s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 32 threads and a task size of 64 numbers.
+# elapsed time (Dynamic_par_time): 9.69546s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 32 threads and a task size of 128 numbers.
+# elapsed time (Dynamic_par_time): 4.86313s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 32 threads and a task size of 256 numbers.
+# elapsed time (Dynamic_par_time): 2.44236s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 32 threads and a task size of 512 numbers.
+# elapsed time (Dynamic_par_time): 2.32839s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 32 threads and a task size of 8192 numbers.
+# elapsed time (Dynamic_par_time): 2.27088s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
+Dynamic scheduling.
+Running with 32 threads and a task size of 131072 numbers.
+# elapsed time (Dynamic_par_time): 2.28904s
+1-1000: 178
+50000000-100000000: 949
+1000000000-1100000000: 984
