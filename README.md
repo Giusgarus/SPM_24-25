@@ -112,8 +112,8 @@ Execution examples for each assignment:
 ./collatz_par 1-1000000
 
 # Assignment 3 - Compression
-./miniz_plain -c input.txt output.zip
-./miniz_parallel -c input_directory/ output.zip
+./miniz_plain -r 1 -C 1 folder1 file1
+OMP_NUM_THREADS=$T ./miniz_parallel -r 1 -C 1 folder1 file1
 
 # Assignment 4 - Sorting
 ./plain_sort -s 100M -r 256
